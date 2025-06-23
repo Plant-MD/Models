@@ -39,4 +39,17 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
 
 ### Mentees
 
+#### Suyog Prasai
+
+<table>
+    <tr>
+        <td width=150>
+            <img src="Images/SuyogPrasai.jpg" alt="Image of Suyog Prasai"/>
+        </td>
+        <td>
+           Suyog Prasai (Suyog) is a passionate programmer and tech enthusiast based in Nepal. He is currently building real-world software projects that bridge the gap between hardware and code — from car automation systems to web-based platforms. Suyog enjoys exploring new technologies, optimizing systems, and experimenting with innovative solutions. In his free time, he likes learning about AI, solving programming challenges, and improving his development workflow. Whether it's debugging code or diving into new frameworks, he's always excited to grow, build, and take on new challenges.
+        </td>
+    </tr>
+</table>
+
 

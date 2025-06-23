@@ -39,4 +39,15 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
 
 ### Mentees
 
+<table>
+    <tr>
+        <td width=150>
+            <img src="Images/SafalPoudel.jpg" alt="Image of Aanchal Nancy Jha"/>
+        </td>
+        <td>
+            Safal is a web developer from Butwal, Nepal, a recent high school graduate. He works as a freelance web developer, building websites using WordPress and Next.js. Passionate about electronics and innovation, he enjoys working with microcontrollers and sensors to build IoT systems. In his free time, he learns GeoGuessr. He loves exploring new technologies, experimenting with hardware projects, and expanding his knowledge in both software and hardware development.
+        </td>
+    </tr>
+</table>
+
 

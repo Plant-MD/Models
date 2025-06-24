@@ -92,4 +92,19 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
     </tr>
 </table>
 
+### Chetna Sharma
+
+<table>
+    <tr>
+        <td width=150>
+             <img src="Images/ChetnaSharma.jpeg" alt="Image of Chetna Sharma"/>
+        </td>
+        <td> 
+            Chetna Sharma is passionate about leveraging AI, machine learning, and health technology to develop innovative solutions for community well-being and sustainability. She aims to focus on AI-driven approaches to diagnose and address health problems more effectively. She is a dedicated programmer and chess player who enjoys tackling challenges with logic, creativity, and strategic thinking. She is also also exploring photography and videography in her free time.
+        </td>
+    </tr>
+</table>
+
+             
+
 

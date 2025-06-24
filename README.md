@@ -65,5 +65,17 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
         </td>
     </tr>
 </table>
+#### Bisika Pant
+
+<table>
+    <tr>
+        <td width=150>
+            <img src="Images/BisikaPant.png" alt="Image of Bisika Pant"/>
+        </td>
+        <td>
+           Bisika is a high school graduate from KMC, Bagbazar and an aspiring Data Scientist with a strong passion for AI, machine learning, and problem-solving through code. She is a bronze medalist at the National AI Olympiad. A self-driven learner, Bisika thrives on challenges and believes in the power of self-education. Outside of tech, she enjoys digital painting, reading about innovation. She is always eager to explore new ideas, build meaningful projects, and grow as a creator and changemaker.
+        </td>
+    </tr>
+</table>
 
 

@@ -92,4 +92,20 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
     </tr>
 </table>
 
+###Vishesh jha
+
+
+<table>
+  <tr>
+    <td>
+      <img src="Images/VisheshJha.jpeg" alt="Image of Vishesh Jha" width="150"/>
+    </td>
+    <td>
+      Vishesh Jha is a versatile full-stack developer, emerging security analyst, and passionate Web3 enthusiast with a strong interest in artificial intelligence. He served as the President of the Robotics Club at KMC, where he led several innovative tech initiatives.
+
+      He currently works as a full-stack developer at ScaleBits and is the founder of TechySolve and Black Bytes—platforms focused on digital innovation and cybersecurity education. Vishesh is also an active member of Superteam Nepal, contributing to the Solana ecosystem through community-driven blockchain projects.
+        His industry experience includes internships at Ezze Eats, Dynamic, and Bybit, where he worked across development, security, and research roles. Committed to building the future of tech in Nepal, Vishesh brings together technical expertise and a bold entrepreneurial spirit.
+    </td>
+  </tr>
+</table>
 

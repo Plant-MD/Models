@@ -78,4 +78,17 @@ The contributors of this project are participants of Incubate Nepal 2025 Cohort.
     </tr>
 </table>
 
+#### Mandip Sapkota
+
+<table>
+    <tr>
+        <td width=150>
+            <img src="Images/MandipSapkota.jpeg" alt="Image of Mandip Sapkota"/>
+        </td>
+        <td>
+            Mandip Sapkota is a currently exploring Machine Learning and Robotics. He aims to build a career in robotics and eventually start a company combining ML and Robotics. Beyond technology, Mandip is exploring hobbies like hiking, sketching, and playing the guitar. He has also been an active member of the Leo Club for about three years and currently serves as its Joint Secretary.
+        </td>
+    </tr>
+</table>
+
 
